@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Predictive-Analytics.git
+git clone https://github.com/AetherCodeHQ/Predictive-Analytics.git
 cd Predictive-Analytics
 ```
 
